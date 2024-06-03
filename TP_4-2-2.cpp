@@ -62,3 +62,4 @@ void clearConsole() {
         system("cls");
     #endif
 }
+
